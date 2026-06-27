@@ -1,2 +1,4 @@
 # Personal-Potfolio
-This is my first git repository Author - sharda 
+This is my first git repository
+<br>
+Author - sharda 
